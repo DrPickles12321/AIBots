@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.typer-profile/
+.venv/
+__pycache__/
